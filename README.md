@@ -18,7 +18,8 @@
 ## مهارت‌ها
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=orange)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-Embedded-blue?style=for-the-badge)
 ![Neural Networks](https://img.shields.io/badge/Neural%20Networks-AI-purple?style=for-the-badge)
 
