@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
+  <br/>
+  <b>به پروفایل من خوش اومدی! 👋 مهندسی برق، هوش مصنوعی و برنامه‌نویسی دنیای منه.</b>
 </p>
-
 <div align="center">
 
 # سلام! من رضا احمدی هستم  
