@@ -40,7 +40,7 @@
 
 ## آمار گیت‌هاب من
 
-div align="center">
+
 
   <!-- آمار کلی -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rezaar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
