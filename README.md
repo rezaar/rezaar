@@ -2,7 +2,7 @@
 
 # سلام! من رضا احمدی هستم  
 ### دانشجوی کارشناسی ارشد مهندسی برق – گرایش الکترونیک دیجیتال  
-**دانشگاه افرش**
+**دانشگاه تفرش**
 
 </div>
 
@@ -36,7 +36,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rezaar&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezaar&theme=tokyonight" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezaar&theme=tokyonight" alt="streak stats" /> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaar&layout=compact&theme=tokyonight)
 </div>
 
 ---
@@ -50,14 +51,13 @@
 
 ## ارتباط با من
 
-- ایمیل: [reza.ahmadi@example.com](:reza.ar0077@gmail.com)
+- ایمیل: [reza.ar0077@gmail.com](:reza.ar0077@gmail.com)
 
 ---
 
 <div align="center">
 
 "ترکیب مغز انسان با قدرت پردازش ماشین‌ها، آینده‌ای شگفت‌انگیز خواهد ساخت."
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaar&layout=compact&theme=tokyonight)
 
 
 </div>
