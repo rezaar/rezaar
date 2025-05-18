@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rezaar/rezaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# سلام! من رضا احمدی هستم  
+### دانشجوی کارشناسی ارشد مهندسی برق – گرایش الکترونیک دیجیتال  
+**دانشگاه افرش**
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## درباره من
+
+من یک برنامه‌نویس علاقه‌مند به دنیای **میکروکنترلرها**، **سیستم‌های تعبیه‌شده**، **شبکه‌های عصبی مصنوعی**, **بینایی ملشین** هستم.  
+با ترکیب مهندسی سخت‌افزار و هوش مصنوعی، سعی دارم پروژه‌هایی کاربردی و نوآورانه توسعه بدم.
+
+---
+
+## مهارت‌ها
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Microcontrollers](https://img.shields.io/badge/Microcontrollers-Embedded-blue?style=for-the-badge)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-AI-purple?style=for-the-badge)
+
+---
+
+## ابزارهایی که باهاشون کار کردم
+
+- STM32, AVR, Arduino  
+- TensorFlow, PyTorch  
+- Git, VS Code, Proteus, Keil, Quartus
+
+---
+
+## آمار گیت‌هاب من
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezaar&show_icons=true&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezaar&theme=tokyonight" alt="streak stats" />
+</div>
+
+---
+
+## در حال کار روی
+
+- پروژه‌های مبتنی بر STM32 + شبکه عصبی
+- یادگیری عمیق با تمرکز بر بینایی ماشین و سیستم‌های تعبیه‌شده
+
+---
+
+## ارتباط با من
+
+- ایمیل: [reza.ahmadi@example.com](:reza.ar0077@gmail.com)
+
+---
+
+<div align="center">
+
+"ترکیب مغز انسان با قدرت پردازش ماشین‌ها، آینده‌ای شگفت‌انگیز خواهد ساخت."
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaar&layout=compact&theme=tokyonight)
+
+
+</div>
