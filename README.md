@@ -40,10 +40,19 @@
 
 ## آمار گیت‌هاب من
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rezaar&show_icons=true&theme=tokyonight" alt="github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezaar&theme=tokyonight" alt="streak stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaar&layout=compact&theme=tokyonight" />
+div align="center">
+
+  <!-- آمار کلی -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rezaar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/><br/>
+
+  <!-- استریک -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezaar&theme=tokyonight" alt="GitHub Streak" />
+  <br/><br/>
+
+  <!-- زبان‌های پرتکرار -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaar&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </div>
 
 ---
