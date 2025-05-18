@@ -39,7 +39,7 @@
 ---
 
 ## آمار گیت‌هاب من
-
+<p align="center">
 
 
   <!-- آمار کلی -->
@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaar&layout=compact&theme=tokyonight" alt="Top Languages" />
 
 </div>
-
+<div align="center">
 ---
 
 ## در حال کار روی
