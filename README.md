@@ -66,8 +66,9 @@
 
 ## ارتباط با من
 
-- ایمیل: [reza.ar0077@gmail.com](:reza.ar0077@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/reza-ahmadi-7b2413283)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Rezaar0077)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](Reza.ar0077@gmail.com)
 ---
 
 <div align="center">
