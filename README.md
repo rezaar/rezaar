@@ -37,7 +37,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rezaar&show_icons=true&theme=tokyonight" alt="github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rezaar&theme=tokyonight" alt="streak stats" /> 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaar&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rezaar&layout=compact&theme=tokyonight" />
 </div>
 
 ---
