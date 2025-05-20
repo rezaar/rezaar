@@ -17,6 +17,23 @@ Tafresh University 🎓
 
 ### 🛠 Skills
 
-```bash
 Languages:     Python | C++ | MATLAB  
-Domains:       Neural Networks | Embedded Systems | Computer Vision  
+Domains:       Neural Networks | Embedded Systems | Computer Vision
+
+###⚙️ Tools I Use
+🧠 TensorFlow | PyTorch
+
+💡 STM32 | AVR | Arduino
+
+🧰 Keil | Proteus | Quartus
+
+🛠 Git | VS Code
+
+###🔭 Currently Working On
+🤖 Embedded + Neural Network-based projects
+
+📷 Deep Learning with focus on Computer Vision & Real-World Applications
+
+###🧠 "Merging the human brain with machine processing power will build an incredible future."
+
+
