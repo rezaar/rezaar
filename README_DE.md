@@ -16,6 +16,23 @@ Tafresh Universität 🎓
 
 ---
 
+⚙️ Werkzeuge, die ich verwende
+🧠 TensorFlow | PyTorch
+
+💡 STM32 | AVR | Arduino
+
+🧰 Keil | Proteus | Quartus
+
+🛠 Git | VS Code
+
+🔭 Aktuelle Projekte
+🤖 Projekte mit eingebetteten Systemen + neuronalen Netzen
+
+📷 Deep Learning mit Schwerpunkt auf Computer Vision & praktischen Anwendungen
+
+🧠 "Die Verbindung des menschlichen Gehirns mit der Rechenleistung von Maschinen wird eine erstaunliche Zukunft schaffen."
+
+
 ### 🛠 Fähigkeiten
 
 ```bash
