@@ -1,5 +1,5 @@
 ```markdown
-align="center">Hi there! 👋 Welcome to my profile
+Hi there! 👋 Welcome to my profile
 
 ⚡ Electrical Engineering, AI, and Programming are my world
 
@@ -34,4 +34,3 @@ Domains:       Neural Networks | Embedded Systems | Computer Vision
 📷 Deep Learning with focus on Computer Vision & Real-World Applications
 
 🧠 "Merging the human brain with machine processing power will build an incredible future
-```bash
