@@ -6,7 +6,7 @@ Hi there! 👋 Welcome to my profile
 ---
  🧑‍🎓 About Me
 
-Hi! I’m **Reza Ahmadi**  
+Hi! I’m Reza Ahmadi
 Master’s student in Electrical Engineering – Digital Electronics  
 Tafresh University 🎓  
 
