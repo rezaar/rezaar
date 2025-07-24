@@ -126,8 +126,3 @@
 
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/rezaar/rezaar/output/snake.svg" alt="Snake animation" />
-
-###
