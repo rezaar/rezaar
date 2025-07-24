@@ -58,9 +58,15 @@
 
 ## ابزارهایی که باهاشون کار کردم
 
-- STM32, AVR, Arduino  
-- TensorFlow, PyTorch  
-- Git, VS Code, Proteus, Keil, Quartus
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil-uVision-blue)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium-FFD700?style=flat&logo=altiumdesigner&logoColor=black)
+![LTspice](https://img.shields.io/badge/LTspice-CC0000?style=flat&logo=analogdevices&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
