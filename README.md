@@ -1,3 +1,7 @@
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rezaar.rezaar&"  />
+</div>
  <p align="center">
   <br/>
   <b>به پروفایل من خوش اومدی! 👋 مهندسی برق، هوش مصنوعی و برنامه‌نویسی دنیای منه.</b>
