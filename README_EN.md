@@ -6,9 +6,6 @@
   <b>Welcome to my profile! 👋 Electrical Engineering, Artificial Intelligence, and Programming are my world.</b>
 </p>
 <div align="center">
- 
->  If you're an English speaker, please check out [`README_EN.md`](./README_EN.md)  
->  Wenn Sie Deutsch sprechen, lesen Sie bitte [`README_DE.md`](./README_DE.md)
 
 # Hi! I'm Reza Ahmadi  
 ### Master's Student in Electrical Engineering – Digital Electronics  
