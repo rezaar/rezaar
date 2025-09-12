@@ -1,40 +1,125 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=rezaar.rezaar&"  />
+</div>
+ <p align="center">
+  <br/>
+  <b>Willkommen auf meinem Profil! 👋 Elektrotechnik, Künstliche Intelligenz und Programmierung sind meine Welt.</b>
+</p>
+<div align="center">
+ 
+# Hallo! Ich bin Reza Ahmadi  
+### Masterstudent der Elektrotechnik – Schwerpunkt Digitale Elektronik  
+**Universität Tafresh**
 
-<h1 align="center">Hallo! 👋 Willkommen auf meinem Profil</h1>
-
-<h3 align="center">⚡ Elektrotechnik, KI und Programmierung sind meine Welt</h3>
+</div>
 
 ---
 
-### 🧑‍🎓 Über mich
+## Über mich
 
-Hallo! Ich bin **Reza Ahmadi**  
-Masterstudent der Elektrotechnik – Fachrichtung Digitale Elektronik  
-Tafresh Universität 🎓  
-
-🔧 Begeistert von Mikrocontrollern, Embedded Systems, neuronalen Netzen und Computer Vision  
-🧠 Ich kombiniere Hardwaretechnik mit künstlicher Intelligenz, um praktische und innovative Projekte zu entwickeln
+Ich bin ein Programmierer mit Leidenschaft für **Mikrocontroller**, **eingebettete Systeme**, **künstliche neuronale Netze** und **Computer Vision**.  
+Durch die Kombination von Hardware-Engineering und KI versuche ich, praktische und innovative Projekte zu entwickeln.
 
 ---
 
-⚙️ Werkzeuge, die ich verwende
-🧠 TensorFlow | PyTorch
+## Programmiersprachen
 
-💡 STM32 | AVR | Arduino
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="60" alt="embeddedc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="60" alt="matlab logo"  />
+</div>
 
-🧰 Keil | Proteus | Quartus
+---
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+</div>
 
-🛠 Git | VS Code
 
-🔭 Aktuelle Projekte
-🤖 Projekte mit eingebetteten Systemen + neuronalen Netzen
+---
 
-📷 Deep Learning mit Schwerpunkt auf Computer Vision & praktischen Anwendungen
+## Werkzeuge, mit denen ich gearbeitet habe
 
-🧠 "Die Verbindung des menschlichen Gehirns mit der Rechenleistung von Maschinen wird eine erstaunliche Zukunft schaffen."
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
+![Keil](https://img.shields.io/badge/Keil-uVision-blue)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium-FFD700?style=flat&logo=altiumdesigner&logoColor=black)
+![LTspice](https://img.shields.io/badge/LTspice-CC0000?style=flat&logo=analogdevices&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-2C3E50?style=flat&logo=proteus&logoColor=white)
+![PSpice](https://img.shields.io/badge/PSpice-B22222?style=flat&logo=cadence&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## Meine GitHub-Statistiken
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rezaar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=rezaar&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 
-### 🛠 Fähigkeiten
+## Aktuell arbeite ich an
 
-```bash
-Sprachen:       Python | C++ | MATLAB  
-Bereiche:       Neuronale Netze | Eingebettete Systeme | Maschinelles Sehen  
+- Projekten auf Basis von eingebetteten Systemen + KI
+- Deep Learning mit Fokus auf Computer Vision und eingebettete Systeme
+
+---
+
+## Kontakt
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/reza-ahmadi-7b2413283/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="twitter.com/rezaar11" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="47" height="35" alt="twitter logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="47" height="35" alt="facebook logo"  />
+  <a href="www.instagram.com/rezaar.pv" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://t.me/Rezaar0077" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="47" height="35" alt="telegram logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="47" height="35" alt="whatsapp logo"  />
+  <a href="reza.ar0077@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+
+---
+
+<div align="center">
+
+„Die Kombination des menschlichen Gehirns mit der Rechenleistung von Maschinen wird eine erstaunliche Zukunft schaffen.“
+
+</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rezaar/rezaar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rezaar/rezaar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rezaar/rezaar/output/pacman-contribution-graph.svg">
+</picture>
